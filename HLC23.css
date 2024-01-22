@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flecha{
+    color: red;
+}
+
+.container{
+    float: left;
+    border: 2px solid;
+    padding: 15px;
+    margin: 4px;
+    width: 31%;
+    box-sizing: border-box;
+}
